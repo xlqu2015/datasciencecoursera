@@ -1,2 +1,2 @@
 # datasciencecoursera
-For a course project
+This is a repository for a course project.
